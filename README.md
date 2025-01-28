@@ -35,3 +35,7 @@ SELECT * FROM Employee;
 
 ## Describe Table schema ##
 DESCRIBE Employee;
+
+# adding new comment for testing
+# second comment
+# Third comment
